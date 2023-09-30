@@ -1,1 +1,1 @@
-# Kodluyoruz_Frontend
+# Frontend Web Development Patikası
