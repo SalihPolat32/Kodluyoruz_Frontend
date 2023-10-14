@@ -1,4 +1,4 @@
-![page](Linkedin Clone.png)
+![Linkedin Clone](https://github.com/SalihPolat32/Kodluyoruz_Frontend/blob/main/Bootstrap/Linkedin%20Clone/Linkedin%20Clone.png)
 
 # Bootstrap Linkedin Clone
 
