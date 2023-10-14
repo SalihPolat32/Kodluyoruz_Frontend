@@ -17,4 +17,4 @@ Bu proje, Bootstrap özelliklerini kullanarak bir müzik aleti satış sitesini 
 - CSS (Bootstrap)
 - JavaScript
 
-![Instagram Clone](https://github.com/SalihPolat32/Kodluyoruz_Frontend/blob/main/Bootstrap/Instagram%20Clone/Instagram%20Clone.png)
+![Müzik Dükkanı](https://github.com/SalihPolat32/Kodluyoruz_Frontend/blob/main/Bootstrap/M%C3%BCzik%20D%C3%BCkkan%C4%B1/M%C3%BCzik%20D%C3%BCkkan%C4%B1.png)
